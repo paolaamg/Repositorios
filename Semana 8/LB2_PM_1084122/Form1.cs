@@ -30,11 +30,8 @@ namespace LB2_PM_1084122
         private void button1_Click(object sender, EventArgs e)
         {
             int n=int.Parse(textBox1.Text);
-            int suma = 0;
+            int Math.Pow = 0;
                 for(int i=1;i<=n; i++)
-            {
-                suma = suma + i;
-            }
             label5.Text = Convert.ToString(suma);
               
         }
