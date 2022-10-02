@@ -43,11 +43,11 @@ namespace T8_PAMG_1084122
             }
             label2.Text = x + " el resultado es" + bin;
         }
-    
+
 
         private void label2_Click(object sender, EventArgs e)
         {
-      
+
         }
 
         private void label3_Click(object sender, EventArgs e)
@@ -57,18 +57,57 @@ namespace T8_PAMG_1084122
 
         private void button2_Click(object sender, EventArgs e)
         {
-            int s = int.Parse(textBox1.Text);
-            int x = s;
-            int res;
-            string bin = string.Empty;
+        }
 
-            while (s > 0)
+        private void button3_Click_1(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void button3_Click_1(object sender, EventArgs e, TextBox hexa)
+        {
+            string Hexa = "equivalente hexadecimal";
+            int Numero = int.Parse(textBox3.Text);
+
+            while (Numero > 0)
             {
-                res = s % 16;
-                s /= 16;
-                bin = res.ToString() + bin;
+
+                switch (Numero % 16)
+                {
+                    case 10:
+                        Hexa = "A" + Hexa;
+                        break;
+                    case 11:
+                        Hexa = "B" + Hexa; 
+                        break;
+                    case 12:
+                        Hexa = "C" + Hexa;
+                        break;
+                    case 13:
+                        Hexa = "D" + Hexa;
+                        break;
+                    case 14:
+                        Hexa = "E" + Hexa;
+                        break;
+                    case 15:
+                        Hexa = "F" + Hexa;
+                        break;default:
+                        Hexa = (Numero % 16) + Hexa; 
+                        break;
+
+                }
+
+                Numero = (int)Numero / 16;
             }
-            label4.Text = x + " el resultado es" + bin;
+
+            textBox3 = hexa;
+        }
+
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
+
