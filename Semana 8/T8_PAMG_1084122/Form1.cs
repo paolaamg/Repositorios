@@ -68,7 +68,7 @@ namespace T8_PAMG_1084122
                 s /= 16;
                 bin = res.ToString() + bin;
             }
-            label2.Text = x + " el resultado es" + bin;
+            label4.Text = x + " el resultado es" + bin;
         }
     }
 }
