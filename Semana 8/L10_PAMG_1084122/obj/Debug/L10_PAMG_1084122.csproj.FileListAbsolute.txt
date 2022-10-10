@@ -1,0 +1,3 @@
+C:\Users\DELL\Desktop\Universidad\Segundo ciclo\Intro Progra\Repositorios\Repositorios\Semana 8\L10_PAMG_1084122\obj\Debug\L10_PAMG_1084122.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Universidad\Segundo ciclo\Intro Progra\Repositorios\Repositorios\Semana 8\L10_PAMG_1084122\obj\Debug\L10_PAMG_1084122.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\Universidad\Segundo ciclo\Intro Progra\Repositorios\Repositorios\Semana 8\L10_PAMG_1084122\obj\Debug\L10_PAMG_1084122.csproj.CoreCompileInputs.cache

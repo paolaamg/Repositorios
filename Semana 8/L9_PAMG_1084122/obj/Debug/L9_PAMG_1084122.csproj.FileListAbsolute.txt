@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\Universidad\Segundo ciclo\Intro Progra\Repositorios\Repositorios\Semana 8\L9_PAMG_1084122\obj\Debug\L9_PAMG_1084122.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Universidad\Segundo ciclo\Intro Progra\Repositorios\Repositorios\Semana 8\L9_PAMG_1084122\obj\Debug\L9_PAMG_1084122.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\Universidad\Segundo ciclo\Intro Progra\Repositorios\Repositorios\Semana 8\L9_PAMG_1084122\obj\Debug\L9_PAMG_1084122.Automovil.resources
+C:\Users\DELL\Desktop\Universidad\Segundo ciclo\Intro Progra\Repositorios\Repositorios\Semana 8\L9_PAMG_1084122\obj\Debug\L9_PAMG_1084122.Properties.Resources.resources
+C:\Users\DELL\Desktop\Universidad\Segundo ciclo\Intro Progra\Repositorios\Repositorios\Semana 8\L9_PAMG_1084122\obj\Debug\L9_PAMG_1084122.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Universidad\Segundo ciclo\Intro Progra\Repositorios\Repositorios\Semana 8\L9_PAMG_1084122\obj\Debug\L9_PAMG_1084122.csproj.CoreCompileInputs.cache
