@@ -69,11 +69,11 @@ namespace L9_PM_1084122
             string texto = "";
             if (disponible == true)
             {
-                texto = ("Disponible actualmente");
+                texto = ("Disponible");
             }
             else
             {
-                texto = "No esta disponible";
+                texto = "“No se encuentra disponible actualmente";
             }
             return texto;
         }
