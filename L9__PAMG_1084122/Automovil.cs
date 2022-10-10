@@ -52,14 +52,14 @@ namespace L9_PM_1084122
             precioDolar = this.precio / this.tipoCambioDolar;
             return precioDolar;
         }
-        public void CambiarDisponiblidad(bool D)
+        public void CambiarDisponiblidad(bool Descuento)
 
         {
-            this.disponible = D;
-            if (D == true)
-            { D = false; }
+            this.disponible = Descuento;
+            if (Descuento == true)
+            { Descuento = false; }
             else
-            { D = true; }
+            { Descuento = true; }
 
         }
 
@@ -80,7 +80,7 @@ namespace L9_PM_1084122
 
 
 
-        public string getmostrarInformacion()
+        public string MostrarInformacion()
         {
             string texto = "Marca: " + this.marca + Environment.NewLine + "Modelo: " + this.modelo + Environment.NewLine + "Precio de venta: Q" + this.precio + Environment.NewLine + "Precio en dolares $" + PrecioDolares() + Environment.NewLine + MostrarDisponibilidad();
 
@@ -94,6 +94,11 @@ namespace L9_PM_1084122
             descuentoAplicado = Desc;
             this.precio = this.precio - descuentoAplicado;
             setunPrecio(this.precio);
+        }
+
+        internal void CambiarDisponiblidad()
+        {
+            throw new NotImplementedException();
         }
     }
 
