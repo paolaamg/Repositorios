@@ -1,0 +1,8 @@
+C:\Users\DELL\Desktop\Universidad\Segundo ciclo\Intro Progra\Actividades\Totito\bin\Debug\Totito.exe.config
+C:\Users\DELL\Desktop\Universidad\Segundo ciclo\Intro Progra\Actividades\Totito\bin\Debug\Totito.exe
+C:\Users\DELL\Desktop\Universidad\Segundo ciclo\Intro Progra\Actividades\Totito\bin\Debug\Totito.pdb
+C:\Users\DELL\Desktop\Universidad\Segundo ciclo\Intro Progra\Actividades\Totito\obj\Debug\Totito.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Universidad\Segundo ciclo\Intro Progra\Actividades\Totito\obj\Debug\Totito.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\Universidad\Segundo ciclo\Intro Progra\Actividades\Totito\obj\Debug\Totito.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Universidad\Segundo ciclo\Intro Progra\Actividades\Totito\obj\Debug\Totito.exe
+C:\Users\DELL\Desktop\Universidad\Segundo ciclo\Intro Progra\Actividades\Totito\obj\Debug\Totito.pdb
