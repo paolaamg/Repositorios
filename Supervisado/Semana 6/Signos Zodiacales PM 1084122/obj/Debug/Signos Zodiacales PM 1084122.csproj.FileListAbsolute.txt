@@ -1,0 +1,8 @@
+C:\Users\DELL\Desktop\Universidad\Segundo ciclo\Intro Progra\TS\Signos Zodiacales PM 1084122\obj\Debug\Signos Zodiacales PM 1084122.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Universidad\Segundo ciclo\Intro Progra\TS\Signos Zodiacales PM 1084122\obj\Debug\Signos Zodiacales PM 1084122.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\Universidad\Segundo ciclo\Intro Progra\TS\Signos Zodiacales PM 1084122\obj\Debug\Signos Zodiacales PM 1084122.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Universidad\Segundo ciclo\Intro Progra\TS\Signos Zodiacales PM 1084122\bin\Debug\Signos Zodiacales PM 1084122.exe.config
+C:\Users\DELL\Desktop\Universidad\Segundo ciclo\Intro Progra\TS\Signos Zodiacales PM 1084122\bin\Debug\Signos Zodiacales PM 1084122.exe
+C:\Users\DELL\Desktop\Universidad\Segundo ciclo\Intro Progra\TS\Signos Zodiacales PM 1084122\bin\Debug\Signos Zodiacales PM 1084122.pdb
+C:\Users\DELL\Desktop\Universidad\Segundo ciclo\Intro Progra\TS\Signos Zodiacales PM 1084122\obj\Debug\Signos Zodiacales PM 1084122.exe
+C:\Users\DELL\Desktop\Universidad\Segundo ciclo\Intro Progra\TS\Signos Zodiacales PM 1084122\obj\Debug\Signos Zodiacales PM 1084122.pdb
