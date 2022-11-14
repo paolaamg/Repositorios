@@ -1,0 +1,8 @@
+C:\Users\ashju\OneDrive\Documentos\Proyectos Visual E\Proyecto lab\bin\Debug\Proyecto lab.exe.config
+C:\Users\ashju\OneDrive\Documentos\Proyectos Visual E\Proyecto lab\bin\Debug\Proyecto lab.exe
+C:\Users\ashju\OneDrive\Documentos\Proyectos Visual E\Proyecto lab\bin\Debug\Proyecto lab.pdb
+C:\Users\ashju\OneDrive\Documentos\Proyectos Visual E\Proyecto lab\obj\Debug\Proyecto lab.csproj.AssemblyReference.cache
+C:\Users\ashju\OneDrive\Documentos\Proyectos Visual E\Proyecto lab\obj\Debug\Proyecto lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\ashju\OneDrive\Documentos\Proyectos Visual E\Proyecto lab\obj\Debug\Proyecto lab.csproj.CoreCompileInputs.cache
+C:\Users\ashju\OneDrive\Documentos\Proyectos Visual E\Proyecto lab\obj\Debug\Proyecto lab.exe
+C:\Users\ashju\OneDrive\Documentos\Proyectos Visual E\Proyecto lab\obj\Debug\Proyecto lab.pdb
